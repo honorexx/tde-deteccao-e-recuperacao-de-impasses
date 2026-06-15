@@ -174,23 +174,23 @@ Thread 1 e Thread 2:
 
 
 
-`1. a versão ingênua dos filósofos entrando em deadlock;`
-   ![img.png](img.png)
+### 1. a versão ingênua dos filósofos entrando em deadlock;
+   ![img.png](prints/img.png)
 
-`2. a versão corrigida dos filósofos terminando;`
-   ![img_1.png](img_1.png)
+### 2. a versão corrigida dos filósofos terminando;
+   ![img_1.png](prints/img_1.png)
 
-`3. o contador sem sincronização com valor incorreto;`
-   ![img_8.png](img_8.png)
+### 3. o contador sem sincronização com valor incorreto;
+   ![img_8.png](prints/img_8.png)
 
-`4. o contador com semáforo com valor correto;`
-   ![img_9.png](img_9.png)
+### 4. o contador com semáforo com valor correto;
+   ![img_9.png](prints/img_9.png)
 
-`5. a reprodução do deadlock com duas threads;`
-   ![img_4.png](img_4.png)
+### 5. a reprodução do deadlock com duas threads;
+   ![img_4.png](prints/img_4.png)
 
-`6. a versão corrigida do deadlock terminando corretamente.`
-   ![img_5.png](img_5.png)
+### 6. a versão corrigida do deadlock terminando corretamente.
+   ![img_5.png](prints/img_5.png)
 
 ---
 
