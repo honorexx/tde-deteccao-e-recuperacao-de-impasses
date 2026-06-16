@@ -9,7 +9,7 @@
 
 **Linguagem escolhida:** Java  
 **Versão recomendada:** JDK 17 ou superior  
-**Link do vídeo no YouTube:** inserir link público ou não listado
+**Link do vídeo no YouTube:** https://youtu.be/wCP5e-ySZ-I?si=Y9vzugV0hWGJGio9
 
 ## Como executar
 ### IntelliJ IDEA
