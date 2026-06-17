@@ -26,8 +26,8 @@
 javac parte1-filosofos/JantarFilosofos.java
 java -cp parte1-filosofos JantarFilosofos
 
-javac parte2-semaforo/ContadorConcorrente.java
-java -cp parte2-semaforo ContadorConcorrente
+javac parte2-contador/ContadorConcorrente.java
+java -cp parte2-contador ContadorConcorrente
 
 javac parte3-deadlock/DeadlockDemo.java
 java -cp parte3-deadlock DeadlockDemo
