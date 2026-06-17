@@ -9,7 +9,7 @@
 
 **Linguagem escolhida:** Java  
 **Versão recomendada:** JDK 17 ou superior  
-**Link do vídeo no YouTube:** inserir link público ou não listado
+**Link do vídeo no YouTube:** https://youtu.be/wCP5e-ySZ-I?si=Y9vzugV0hWGJGio9
 
 ## Como executar
 ### IntelliJ IDEA
@@ -26,8 +26,8 @@
 javac parte1-filosofos/JantarFilosofos.java
 java -cp parte1-filosofos JantarFilosofos
 
-javac parte2-semaforo/ContadorConcorrente.java
-java -cp parte2-semaforo ContadorConcorrente
+javac parte2-contador/ContadorConcorrente.java
+java -cp parte2-contador ContadorConcorrente
 
 javac parte3-deadlock/DeadlockDemo.java
 java -cp parte3-deadlock DeadlockDemo
