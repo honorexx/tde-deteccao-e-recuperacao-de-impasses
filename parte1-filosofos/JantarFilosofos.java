@@ -90,7 +90,11 @@ public class JantarFilosofos {
         for (Thread t : filosofos) {
             t.join();
         }
+<<<<<<< HEAD
         System.out.println("Conclusao: todos os filosofos conseguiram comer 3 vezes. Nao houve deadlock nem iniciação observavel.");
+=======
+        System.out.println("Conclusao: todos os filosofos conseguiram comer 3 vezes. Nao houve deadlock nem inanicao observavel.");
+>>>>>>> 92dd32e61acb4ad7973a009623dd1e1177c775f1
     }
 
     private static ReentrantLock[] criarGarfos() {
